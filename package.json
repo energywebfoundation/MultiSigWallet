@@ -2,12 +2,6 @@
   "name": "multisig-wallet-gnosis",
   "version": "1.4.1",
   "description": "Main module, for installing all dependencies",
-  "scripts": {
-    "test-dapp": "cd dapp && npm test",
-    "test": "sh truffle_test_runner.sh",
-    "install": "cd dapp && npm install",
-    "start": "cd dapp && npm start"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gnosis/MultiSigWallet.git"
