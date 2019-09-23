@@ -75,3 +75,7 @@ dapp/localhost.key
 
 # Travis
 .travis/deploy_key
+
+
+.secret
+secret
